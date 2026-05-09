@@ -118,6 +118,18 @@ Includes:
 
 ---
 
+---
+
+## Screenshots
+
+### Market Order
+
+![Market Order](screenshots/market-order.png)
+
+### Limit Order
+
+![Limit Order](screenshots/limit-order.png)
+
 ## Notes
 
 - Uses Binance Futures Testnet only
